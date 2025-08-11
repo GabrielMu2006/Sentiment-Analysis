@@ -1,0 +1,10 @@
+pandas
+numpy
+beautifulsoup4
+nltk
+scikit-learn
+matplotlib
+tqdm
+tensorflow
+transformers
+os
